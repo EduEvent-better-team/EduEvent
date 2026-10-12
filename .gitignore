@@ -1,0 +1,22 @@
+# Python environment and generated files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local databases and configuration
+*.sqlite3
+*.sqlite3-journal
+.env
+.env.*
+!.env.example
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated assets and uploaded files
+staticfiles/
+media/
