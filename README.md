@@ -1,6 +1,6 @@
 # EduEvent
 
-[Project overview and group responsibilities](Project Overview.md)
+[Project overview and group responsibilities](Project%20Overview.md)
 
 ## Current scope
 
