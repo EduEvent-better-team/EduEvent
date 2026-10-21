@@ -1,3 +1,7 @@
+# EduEvent
+
+[Project overview and group responsibilities](Project Overview.md)
+
 ## Current scope
 
 The project uses Django 5.2, PostgreSQL 17 and HTML templates. It includes the `core` module, URL routing, a shared `base.html` layout and a home page. The layout contains a header, a Home link, a content block and a footer. Backend code, frontend templates, database migrations and documentation have separate directories.
